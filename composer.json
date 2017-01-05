@@ -1,7 +1,7 @@
 {
   "name": "drupal/me_redirect",
   "type": "drupal-module",
-  "description": "Float Labels",
+  "description": "Me Redirect",
   "homepage": "https://github.com/TopFloorTech/drupal-me_redirect",
   "license": "GPL-2.0+",
   "minimum-stability": "dev"
