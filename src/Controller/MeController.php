@@ -8,7 +8,7 @@ use Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException;
 
 class MeController extends ControllerBase {
   public function me($user_path) {
-    $userId = $uid = \Drupal::currentUser()->id();
+    $userId = \Drupal::currentUser()->id();
 
     if (!empty($userId)) {
       // Logged in, replace "me" in path and redirect.
