@@ -1,0 +1,3 @@
+Me Redirect 8.x-1.x-dev, 2017-04-14
+------------------------------------
+Initial dev release by bmcclure

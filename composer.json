@@ -2,7 +2,7 @@
   "name": "drupal/me_redirect",
   "type": "drupal-module",
   "description": "Me Redirect",
-  "homepage": "https://github.com/TopFloorTech/drupal-me_redirect",
+  "homepage": "https://www.drupal.org/project/me_redirect",
   "license": "GPL-2.0+",
   "minimum-stability": "dev"
 }

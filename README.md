@@ -11,3 +11,17 @@ DEPENDENCIES
 ============
 
 None.
+
+
+INSTALLATION
+============
+
+Simply enable the module. There is no configuration needed.
+
+USAGE
+=====
+
+Create a link anywhere (a menu, in your content, on another site) to [yoursite.com]/me/[anything] and the module will automatically 
+redirect a user to the appropriate user account page if they have permission to go there.
+
+If not, they will be shown an Access Denied message.
